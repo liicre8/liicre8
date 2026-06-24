@@ -37,6 +37,8 @@
 ![Chai](https://img.shields.io/badge/Chai-0d1117?style=for-the-badge&logo=chai&logoColor=A30701) 
 ![Web3 Wallet](https://img.shields.io/badge/Web3_Wallets-0d1117?style=for-the-badge&logo=web3dotjs&logoColor=F16822) 
 ![GitLab](https://img.shields.io/badge/GitLab-0d1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0d1117?style=for-the-badge&logo=shadcnui&logoColor=ffffff)
 
 **Databases & Management Clients:**
 
