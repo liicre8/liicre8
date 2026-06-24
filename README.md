@@ -1,5 +1,5 @@
-## WILS<kbd style="color: #FF7300; background: none; border: none; padding: 0; box-shadow: none;">{LI}</kbd>
-⌬ Women in Tech ⚛︎ ـــــــــﮩ٨ـ  <br/>
+## WILS ![ WILS{LI} ](https://img.shields.io/badge/%7B_LI_%7D-FF7300?style=flat-square)
+⌬ Woman in Tech ⚛︎ ـــــــــﮩ٨ـ  <br/>
 
 ──── ⋆⋅𖤓⋅⋆ ────
 
